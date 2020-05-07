@@ -9,6 +9,7 @@ Europe
 - Republika Srpska ... https://github.com/aleksandar-jovicic/COVID19-Republika-Srpska
 - Federation of Bosnia & Herzegovina ... https://github.com/aleksandar-jovicic/COVID19-FBiH
 - Montenegro ... https://github.com/aleksandar-jovicic/COVID19-Montenegro
+- North Macedonia ... https://github.com/aleksandar-jovicic/COVID19-Macedonia
 
 Worldwide
 
