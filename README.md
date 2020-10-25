@@ -4,7 +4,7 @@ List of COVID-19 GitHub resources:
 Europe
 
 - Italy ... https://github.com/pcm-dpc/COVID-19
-- Croatia ... https://github.com/viborccom/data/tree/master/covid-19/croatia
+- Croatia ... https://github.com/aleksandar-jovicic/COVID19-Croatia ... https://github.com/viborccom/data/tree/master/covid-19/croatia
 - Serbia ... https://github.com/aleksandar-jovicic/COVID19-Serbia
 - Republika Srpska ... https://github.com/aleksandar-jovicic/COVID19-Republika-Srpska
 - Federation of Bosnia & Herzegovina ... https://github.com/aleksandar-jovicic/COVID19-FBiH
